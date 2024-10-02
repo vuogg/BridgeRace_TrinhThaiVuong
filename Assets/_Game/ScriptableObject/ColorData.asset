@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75323c6795dbf3740b65f48af551b54b, type: 3}
+  m_Name: ColorData
+  m_EditorClassIdentifier: 
+  colorMats:
+  - {fileID: 2100000, guid: b2b9e28bb0b0c074aad214d203bddddb, type: 2}
+  - {fileID: 2100000, guid: 090776dd305817f4b96fd0954a3045ea, type: 2}
+  - {fileID: 2100000, guid: e303cf5d3d8dae3479d78f93d04fc1a8, type: 2}
+  - {fileID: 2100000, guid: 192d4d4fb07e6ac438a214c742772acc, type: 2}
+  - {fileID: 2100000, guid: 961b0013d6fb3d44ea3fcf6f2fac58d0, type: 2}
+  - {fileID: 2100000, guid: 0f296fe0a24905b499f403becb1167a2, type: 2}
+  - {fileID: 2100000, guid: 506e91a1dcedb8344ad241c8ff3e3470, type: 2}
+  - {fileID: 2100000, guid: b5bc6b8bee4bf2a44a303a4fd075b0b8, type: 2}
+  - {fileID: 2100000, guid: aecbce26c57a04242829943a14e2c8c6, type: 2}

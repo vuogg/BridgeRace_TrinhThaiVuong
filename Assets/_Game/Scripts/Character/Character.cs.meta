@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d1ee07ff11ccd51448c323bb021529a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - colorData: {instanceID: 0}
+  - renderer: {instanceID: 0}
+  - playerBrickPrefab: {instanceID: 0}
+  - brickHolder: {instanceID: 0}
+  - direct: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - stage: {instanceID: 0}
+  - m_Trail: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
